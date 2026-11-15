@@ -1,0 +1,13 @@
+{
+  "title": "OpenHi-P Exoskeleton: Open-source, High-torque, and Portable hip exoskeleton",
+  "version": "1.0.0",
+  "upload_type": "software",
+  "description": "Controller firmware, host-PC human-in-the-loop optimization software, and hardware design files with the build guide of the OpenHi-P hip exoskeleton, accompanying the paper \"An open-source, high-torque, and portable hip exoskeleton for physically demanding locomotion.\"",
+  "license": "MIT",
+  "creators": [
+    {"name": "Choi, Jae-Ryeong", "affiliation": "John A. Paulson School of Engineering and Applied Sciences, Harvard University"},
+    {"name": "Dong, Yinkai", "affiliation": "John A. Paulson School of Engineering and Applied Sciences, Harvard University"},
+    {"name": "Rohner, Catherine", "affiliation": "John A. Paulson School of Engineering and Applied Sciences, Harvard University; Department of Health Sciences and Technology, ETH Zurich"},
+    {"name": "Slade, Patrick", "affiliation": "John A. Paulson School of Engineering and Applied Sciences, Harvard University; Kempner Institute for the Study of Natural and Artificial Intelligence, Harvard University"}
+  ]
+}

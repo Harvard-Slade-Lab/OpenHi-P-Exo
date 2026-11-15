@@ -1,0 +1,23 @@
+{
+  "erc": {
+    "erc_exclusions": [],
+    "meta": {
+      "version": 0
+    },
+    "rule_severities": {
+      "lib_symbol_issues": "ignore"
+    }
+  },
+  "meta": {
+    "filename": "OpenHipExo_system.kicad_pro",
+    "version": 3
+  },
+  "schematic": {},
+  "sheets": [
+    [
+      "f7f0ac64-a1ca-5673-b378-e3eccd4623b3",
+      "Root"
+    ]
+  ],
+  "text_variables": {}
+}

@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "OpenHi-P Exoskeleton: Open-source, High-torque, and Portable hip exoskeleton"
+version: 1.0.0
+date-released: "2026-11-15"
+license: MIT
+repository-code: "https://github.com/Harvard-Slade-Lab/OpenHi-P-Exo"
+authors:
+  - given-names: Jae-Ryeong
+    family-names: Choi
+    affiliation: "John A. Paulson School of Engineering and Applied Sciences, Harvard University"
+  - given-names: Yinkai
+    family-names: Dong
+    affiliation: "John A. Paulson School of Engineering and Applied Sciences, Harvard University"
+  - given-names: Catherine
+    family-names: Rohner
+    affiliation: "John A. Paulson School of Engineering and Applied Sciences, Harvard University; Department of Health Sciences and Technology, ETH Zurich"
+  - given-names: Patrick
+    family-names: Slade
+    affiliation: "John A. Paulson School of Engineering and Applied Sciences, Harvard University; Kempner Institute for the Study of Natural and Artificial Intelligence, Harvard University"
